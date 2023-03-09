@@ -1,0 +1,26 @@
+[{
+    "fullName":"Beyonce Knowles",
+    "_id":39403458,
+    "hoursWorked":40,
+    "basicPay":18,
+    "houseAllowance":50,
+    "conveyanceAllowance":40,
+    "childrenEducationAllowance":50,
+    "fuelReimbursements":50,
+    "driverReimbursements":100,
+    "healthInsurance":10,
+    "taxIncome":10
+  },
+  {
+    "fullName":"Adele",
+    "_id":39456782,
+    "hoursWorked":45,
+    "basicPay":25,
+    "houseAllowance":50,
+    "conveyanceAllowance":40,
+    "childrenEducationAllowance":50,
+    "fuelReimbursements":50,
+    "driverReimbursements":100,
+    "healthInsurance":10,
+    "taxIncome":10
+  }]
