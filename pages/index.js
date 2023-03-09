@@ -24,7 +24,7 @@ const Payroll=({employees})=>{
              <a>{data.fullName}</a>
            </Link> 
              <li>${grossPay}</li>
-             <li>${netPay}</li>
+             <li>${netpay}</li>
            </ul>
            </>
            )
