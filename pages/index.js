@@ -16,7 +16,7 @@ const Payroll=({employees})=>{
          const grossPay=basicPay + totalAllowance + totalReimbursement
          const grossPay=basicPay + totalallowance + totalReimbursement
 
-         const netPay=grossPay-totalDeduction
+         const netPay=grosspay-totalDeduction
          return(
            <>
            <ul key={data.fullName}>
